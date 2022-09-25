@@ -1,0 +1,7 @@
+{
+    "project_title": "My Project",
+    "project_description": "My Project Description",
+    "project_url": "http://myproject.com",
+    "project_slug": "myproject",
+    "python_version": "3.7",
+}
